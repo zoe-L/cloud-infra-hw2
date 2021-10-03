@@ -1,0 +1,3 @@
+https://hub.docker.com/r/zoexli/helloworld
+
+https://console.cloud.google.com/logs/query;query=resource.type%3D%22cloud_run_revision%22%0Aresource.labels.service_name%3D%22helloworld%22%0Aresource.labels.revision_name%3D%22helloworld-00002-jix%22;cursorTimestamp=2021-10-02T23:45:44.134408257Z?project=cloud-infra-hw2
